@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "302699080063",
+    "firebase_url": "https://crickplay1.firebaseio.com",
+    "project_id": "crickplay1",
+    "storage_bucket": "crickplay1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302699080063:android:c7f427ee2f746d85",
+        "android_client_info": {
+          "package_name": "com.example.avi.crickplay1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302699080063-ced3bch6t6n05q2knnhok100056jeklr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avi.crickplay1",
+            "certificate_hash": "f345e17e7463e628777742e5008897699a5bca76"
+          }
+        },
+        {
+          "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATki91_CY-kZs0jB9VoLuS6Z1318oESVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302699080063:android:fb974012d401962d",
+        "android_client_info": {
+          "package_name": "com.example.avi.crickplay2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302699080063-ts92j8hul6ml9dklmidh1ehl114codg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avi.crickplay2",
+            "certificate_hash": "f345e17e7463e628777742e5008897699a5bca76"
+          }
+        },
+        {
+          "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATki91_CY-kZs0jB9VoLuS6Z1318oESVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302699080063:android:d688ce36c7272b97",
+        "android_client_info": {
+          "package_name": "com.example.avi.crickplay3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302699080063-jjsq7lhm87j5liicnd8h27cvffr6117k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avi.crickplay3",
+            "certificate_hash": "f345e17e7463e628777742e5008897699a5bca76"
+          }
+        },
+        {
+          "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATki91_CY-kZs0jB9VoLuS6Z1318oESVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302699080063-gm801pkm8n1hd99kan5is75p2c62mm0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
